@@ -16,7 +16,7 @@ Design
 I chose to use ArrayLists for storing cards due to the amount of manipulation needed throughout the program. ArrayLists
 also allowed for good readability and ease of manipulating the Cards inside it. I chose to separate the classes as much
 as possible to also allow easy understanding of the program. Each class revolves around one task. Some of the classes 
-could be included as inner classes of the PokerHand object, but due to the length and complex nature of these classes I  
+could be included as inner classes of the PokerHand object, but due to the length and complex nature of these classes I
 chose to keep them as separate objects. I stored and retrieved card values as ints or chars as much as possible for 
 performance management and ease of comparing.
 
